@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 Qingqing Li is a master's student graduated from the Department of Anesthesiology at Xuzhou Medical University. She is currently working as a research assistant at the Shanghai Mental Health Center. 
-Her research interests include **depression**, **Alzheimer's disease**, **microglia**, and **bioinformatics**. Outside of her academic life, she is passionate about public welfare activities and enjoys watching animated films by [Mr. Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki"Mr. Miyazaki").
+
+Her research interests include **Major Depressive Disorder**, **Alzheimer's Disease**, **Microglia**, and **Bioinformatics**. Outside of her academic life, she is passionate about public welfare activities and enjoys watching animated films by [Mr. Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki"Mr. Miyazaki").
 
 A data-driven personal website
 ======
