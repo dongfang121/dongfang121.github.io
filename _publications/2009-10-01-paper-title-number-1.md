@@ -3,7 +3,7 @@
 #collection: publications
 1. Qingqing Li, Ying Xie, Jinyi Lin, Miaomiao Li, Ziyan Gu, Tianli Xin, Yang Zhang, Qixia Lu, Yihui Guo, Yanhong Xing, Wuyang Wang, "Microglia sing the prelude of neuroinflammation-associated depression", *Molecular Neurobiology* (under review)
 [graphical abstract](1.png)
-3. Qingqing Li, Siyu Fan, Xiaonan Pang, Weijie Xie, "Systemic Lupus Erythematosus Comorbid with Major Depressive Disorder from the Perspective of IL-7R", *Aging* (under review)
+
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
