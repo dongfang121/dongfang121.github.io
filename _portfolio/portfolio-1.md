@@ -1,5 +1,5 @@
 ---
-title: "2017 College Student Summer Volunteering Program in Langzhong"
+title: "<h4>2017 College Student Summer Volunteering Program in Langzhong</h4>"
 excerpt: "<br/><img src='/images/volunteer 1 .png' style='width:450px;'>"
 collection: portfolio
 ---
