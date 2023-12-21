@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Here is my CV](/files/resume.pdf)
+[Here is my CV](/files/resume.pdf) <br />
 
 
 <iframe src="/images/Curriculum Vitae.png" width="100%" height="500px">
