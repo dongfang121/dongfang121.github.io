@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "[Curriculum Vitae](/files/resume.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
