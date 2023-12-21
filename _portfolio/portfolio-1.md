@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "2017 College Student Summer Volunteering Program in Rural Areas"
+excerpt: "2017 College Student Summer Volunteering Program in Rural Areas<br/><img src='/images/volunteer 1.png'>"
 collection: portfolio
 ---
 
