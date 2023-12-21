@@ -7,5 +7,6 @@ redirect_from:
   - /resume
 ---
 [Here is my CV](/files/resume.pdf)
-  <img src="/images/Curriculum Vitae.png" width="500">
+
+<img src="/images/Curriculum Vitae.png" width="500">
 
