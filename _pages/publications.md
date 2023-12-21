@@ -10,4 +10,4 @@ author_profile: true
 
 <small>2. **Qingqing Li**, Siyu Fan, Xiaonan Pang, Weijie Xie, “**Systemic Lupus Erythematosus Comorbid with Major Depressive Disorder from the Perspective of IL-7R**”, Aging. (under review)
 
-   <img src="/images/2.png" width="300">
+   <img src="/images/2.png" width="500">
