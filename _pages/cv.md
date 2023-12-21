@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-[下载我的简历](/path/to/your/resume.pdf)
+[Here is my CV](/files/resume.pdf)
 
