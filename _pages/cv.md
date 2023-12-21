@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[Curriculum Vitae](/files/resume.pdf)"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 [Here is my CV](/files/resume.pdf) <br />
 
 
-<iframe src="/files/resume.pdf" width="100%" height="400px">
+<iframe src="/files/resume.pdf" width="100%" height="300px">
   <p>Sorry, your browser doesn't support embedded PDFs. You can <a href="your_pdf_file.pdf">download the PDF file</a> instead.</p>
 </iframe>
 
