@@ -1,5 +1,5 @@
 ---
-title: "2017 College Student Summer Volunteering Program in Rural Areas"
+
 excerpt: "2017 College Student Summer Volunteering Program in Rural Areas<br/><img src='/images/volunteer 1.png'>"
 collection: portfolio
 ---
