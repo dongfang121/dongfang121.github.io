@@ -1,6 +1,6 @@
 ---
 title: "<h4>2017 College Student Summer Volunteering Program in Guangan</h4>"
-excerpt: "<br/><img src='/images/volunteer4.png' style='width: 33.33%;' /><img src='/images/volunteer5.png' style='width: 33.33%;' /><img src='/images/volunteer6.png' style='width: 33.33%;' />"
+excerpt: "<br/><img src='/images/volunteer4.png' style='width: 100%;' />"
 collection: portfolio
 ---
 
