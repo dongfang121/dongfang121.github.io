@@ -14,5 +14,10 @@ author_profile: true
 
    <img src="/images/2.png" width="500">
 
-3. <span style="font-size:16px;">Qixia Lu, **Qingqing Li**, Tianli Xin1, Jinyi Lin, Yang Zhang, Zhongheng Sui, Yanhong Xing, Meng-meng Wang, Wuyang Wang, and Jiansong Qi, “**MCOLN1/TRPML1 in the lysosome: a potential autophagy modulation target for diverse diseases**”. (Manuscript) (co-first author)</span><br>
+<p style="text-align: justify; font-size: 12px;">There is an aberrant immune in SLE, manifested by abnormal levels of multiple cytokines. The failure of the IL-7/IL-7R pathway to regulate T cell development, homeostasis, proliferation, and survival, leads to T cell dysfunction, which exacerbates the inflammatory response. Long-term inflammatory microenvironment leads to damaged BBB, and peripheral pro-inflammatory cytokines enter the CNS to activate microglia, astrocytes, and neurons to release more pro-inflammatory cytokines, causing an imbalance of pro- and anti-inflammatory cytokines in the CNS, with abnormalities in the function and number of T cell subsets such as CD4+ and CD8+ T cells occur, leading to decreased synthesis of systemic 5-HT. Meanwhile, cytokines from the CNS enter the peripheral circulation and further burst the innate and adaptive immune responses. Eventually, SLE patients develop depressive symptoms.</p>
+
+3. <span style="font-size:16px;">Qixia Lu, **Qingqing Li**, Tianli Xin, Jinyi Lin, Yang Zhang, Zhongheng Sui, Yanhong Xing, Meng-meng Wang, Wuyang Wang, and Jiansong Qi, “**MCOLN1/TRPML1 in the lysosome: a potential autophagy modulation target for diverse diseases**”. (Manuscript) (co-first author)</span><br>
    <img src="/images/3.png" width="500">
+
+<p style="text-align: justify; font-size: 12px;">Autophagy is a highly conserved catabolic process that maintains the quality of the cytoplasm by eliminating unnecessary proteins and damaged organelles. The release of lysosomal Zn2+ mediated by the activation of MCOLN1 inhibits the autophagy process by disrupting the fusion between autophagosomes and lysosomes in various types of cells. Moreover, the MCOLN1 regulates the pathological process (the turnover of mitochondria, cell apoptosis, and migration) of cancer and myocardial ischemia/reperfusion (I/R) injury by mediating autophagy inhibition.</p>
+
