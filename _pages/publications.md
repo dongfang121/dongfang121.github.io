@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<span style="font-size:16px;">1.**Qingqing Li**, Ying Xie, Jinyi Lin, Miaomiao Li, Ziyan Gu, Tianli Xin, Yang Zhang, Qixia Lu, Yihui Guo, Yanhong Xing, Wuyang Wang, "**Microglia sing the prelude of neuroinflammation-associated depression**", Molecular Neurobiology. (Under Review)</span>
+<span style="font-size:16px;">1.**Qingqing Li**, Ying Xie, Jinyi Lin, Miaomiao Li, Ziyan Gu, Tianli Xin, Yang Zhang, Qixia Lu, Yihui Guo, Yanhong Xing, Wuyang Wang, "**Microglia sing the prelude of neuroinflammation-associated depression**", Molecular Neurobiology. (Minor Revisions)</span>
 
 <span style="font-size:16px;">2. **Qingqing Li**, Siyu Fan, Xiaonan Pang, Weijie Xie, “**Systemic Lupus Erythematosus Comorbid with Major Depressive Disorder from the Perspective of Bioinformatics**”, Aging. (Minor Revisions)</span>
 
