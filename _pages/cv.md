@@ -6,11 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Here is my CV.](/files/resume.pdf)  (*Updated: 22/03/2024*)<br />
+[Here is my CV.](/files/resume1.pdf)  (*Updated: 22/03/2024*)<br />
 
 
-<iframe src="/files/resume.pdf" width="100%" height="350px">
-  <p>Sorry, your browser doesn't support embedded PDFs. You can <a href="resume.pdf">download the PDF file</a> instead.</p>
+<iframe src="/files/resume1.pdf" width="100%" height="350px">
+  <p>Sorry, your browser doesn't support embedded PDFs. You can <a href="resume1.pdf">download the PDF file</a> instead.</p>
 </iframe>
 
 
