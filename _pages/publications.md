@@ -15,4 +15,4 @@ author_profile: true
 <span style="font-size:16px;">3. Jiansong Qi, **Qingqing Li**, Tianli Xin, Qixia Lu, Jinyi Lin, Yang Zhang, Haiting Luo,Feifei Zhang, Yanhong Xing, Wuyang Wang, Derong Cui & Mengmeng Wang, “**MCOLN1/TRPML1 in the lysosome: a promising target for autophagy modulation in diverse diseases**”, _Autophagy_. 24:1-11.  
 <a href="https://pubmed.ncbi.nlm.nih.gov/38522082/">DOI: 10.1080/15548627.2024.2333715</a>)</span><br>
 
-<img src='/images/research4.png' /><br> 
+<img src='/images/5.png' /><br> 
