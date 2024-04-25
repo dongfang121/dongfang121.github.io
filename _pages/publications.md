@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<span style="font-size:16px;">1.**Qingqing Li**, et al, "**Microglia sing the prelude of neuroinflammation-associated depression**", _Molecular Neurobiology_. (Minor Revision Submitted)</span>
+<span style="font-size:16px;">1.**Qingqing Li**, et al, "**Microglia sing the prelude of neuroinflammation-associated depression**", _Molecular Neurobiology_. (Minor Revision Submitted)</span><br>
 <img src='/images/1.png' /><br> 
 
 <span style="font-size:16px;">2. **Qingqing Li**, et al, “**Systemic Lupus Erythematosus Comorbid with Major Depressive Disorder from the Perspective of Bioinformatics**”, _Aging-US_. (Original article; Accepted)</span>
