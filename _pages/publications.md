@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<div style="text-align: justify;">  
 <span style="font-size:16px;">1.**Qingqing Li**, et al, "**Microglia sing the prelude of neuroinflammation-associated depression**", _Molecular Neurobiology_. (Minor Revision Submitted)</span>
 
 <img src='/images/1.png' /><br> 
@@ -15,3 +16,4 @@ author_profile: true
 <a href="https://pubmed.ncbi.nlm.nih.gov/38522082/">DOI: 10.1080/15548627.2024.2333715</a>)</span><br>
 
 <img src='/images/6.png' /><br> 
+</div>
