@@ -15,6 +15,23 @@ redirect_from:
 
 Additional link: Machine Learning Notes (Uploading...)
 
+[KNN classification](/files/KNN classification.pdf)
+
+[KNN classification-weights](/files/KNN classification-weights.pdf)
+
 [KNN regression](/files/KNN regression.pdf)
+
+[KNN regression-weights](/files/KNN regression-weights.pdf)
+
+[linear regression-Gradient descent](/files/linear regression-Gradient descent.pdf)
+
+[linear regression-Least Squares Method](/files/linear regression-Least Squares Method.pdf)
+
+[Logistic Regression](/files/Logistic Regression.pdf)
+
+[KMeans-Clustering](/files/KMeans-Clustering.pdf)
+
+[Perceptron Algorithm](/files/Perceptron Algorithm.pdf)
+
 
 
