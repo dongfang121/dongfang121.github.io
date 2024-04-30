@@ -14,6 +14,7 @@ redirect_from:
 </iframe>
 
 Additional link: Machine Learning Notes (Uploading...)
+
 [KNN regression](/files/KNN regression.pdf)
 
 
