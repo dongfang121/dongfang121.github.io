@@ -33,7 +33,7 @@ Additional link: Machine Learning Notes (Uploading...)
 
 [Perceptron Algorithm](/files/Perceptron Algorithm.pdf)
 
-[iris](/files/iris.pdf); [boston](/files/boston.pdf); [order](/files/order.pdf)
+Datasets: [iris](/files/iris.pdf); [boston](/files/boston.pdf); [order](/files/order.pdf)
 
 
 
