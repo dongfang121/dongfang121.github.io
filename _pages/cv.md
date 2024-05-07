@@ -23,15 +23,15 @@ Additional link: Machine Learning Notes (Uploading...)
 
 [KNN regression-weights](/files/KNN regression-weights.pdf)
 
-[linear regression-Gradient descent](/files/linear regression-Gradient descent.pdf)
+[Linear regression-gradient descent](/files/linear regression-Gradient descent.pdf)
 
-[linear regression-Least Squares Method](/files/linear regression-Least Squares Method.pdf)
+[Linear regression-least squares method](/files/linear regression-Least Squares Method.pdf)
 
-[Logistic Regression](/files/Logistic Regression.pdf)
+[Logistic regression](/files/Logistic Regression.pdf)
 
-[KMeans-Clustering](/files/KMeans-Clustering.pdf)
+[KMeans-clustering](/files/KMeans-Clustering.pdf)
 
-[Perceptron Algorithm](/files/Perceptron Algorithm.pdf)
+[Perceptron algorithm](/files/Perceptron Algorithm.pdf)
 
 Datasets: [iris](/files/iris.pdf); [boston](/files/boston.pdf); [order](/files/order.pdf)
 
