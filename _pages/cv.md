@@ -13,7 +13,9 @@ redirect_from:
   <p>Sorry, your browser doesn't support embedded PDFs. You can <a href="resume12.pdf">download the PDF file</a> instead.</p>
 </iframe>
 
-Additional link: machine learning notes (uploading...)
+Additional link: 
+
+Machine learning notes (uploading...)
 
 [KNN classification](/files/KNN classification.pdf)
 
