@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<span style="font-size:16px;">1.**Qingqing Li**, et al, "**Microglia sing the prelude of neuroinflammation-associated depression**", _Molecular Neurobiology_. (Minor Revision Submitted)</span><br>
+<span style="font-size:16px;">1.**Qingqing Li**, et al, "**Microglia sing the prelude of neuroinflammation-associated depression**", _Molecular Neurobiology_. (Accepted)</span><br>
 
 <img src='/images/1.png' /><br> 
 
