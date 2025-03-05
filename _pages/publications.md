@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 <span style="font-size:16px;">1. **Qingqing Li**, et al, **Systemic Lupus Erythematosus Comorbid with Major Depressive Disorder from the Perspective of Bioinformatics**. (Submitted, 2025)</span>
 <br> 
 
