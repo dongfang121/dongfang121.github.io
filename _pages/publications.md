@@ -16,7 +16,7 @@ author_profile: true
 </span><br> 
 [<a href="/files/Microglia.pdf">Download PDF</a>]<br> 
 <br> 
-<img src='/images/1.png' /><br> 
+<img src='/images/1(1).png' /><br> 
 
 <span style="font-size:16px;">4. Jiansong Qi, **Qingqing Li**, et al. **MCOLN1/TRPML1 in the lysosome: a promising target for autophagy modulation in diverse diseases**. _Autophagy_. 2024 Aug;20(8):1712-1722. 
 (<a href="https://pubmed.ncbi.nlm.nih.gov/38522082/">doi: 10.1080/15548627.2024.2333715</a>) (JCR Q1)
