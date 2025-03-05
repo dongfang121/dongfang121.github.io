@@ -10,13 +10,12 @@ author_profile: true
 
 <span style="font-size:16px;">2.Yanhong Xing, Meng-Meng Wang, Feifei Zhang, Tianli Xin, Xinyan Wang, Rong Chen, Zhongheng Sui, Yawei Dong, Dongxue Xu, Xingyu Qian, Qixia Lu, **Qingqing Li**, et al. **Lysosomes finely control macrophage inflammatory function via regulating the release of lysosomal Fe2+ through TRPML1 channel**. _Nature Communications_. 2025 Jan 24;16(1):985. 
 (<a href="[https://pubmed.ncbi.nlm.nih.gov/39535682/](https://pubmed.ncbi.nlm.nih.gov/39856099/)">doi: 10.1038/s41467-025-56403-x</a>) (JCR Q1)
-</span>[<a href="/files/Lysosomes.pdf">Download PDF</a>]</span>
-<br> 
+</span>[<a href="/files/Lysosomes.pdf">Download PDF</a>]<br> 
 
 <span style="font-size:16px;">3.**Qingqing Li**, et al. **Microglia sing the prelude of neuroinflammation-associated depression**. _Molecular Neurobiology_. 2025 Apr;62(4):5311-5332. 
 (<a href="https://pubmed.ncbi.nlm.nih.gov/39535682/">doi: 10.1007/s12035-024-04575-w</a>) (JCR Q1)
 </span><br> 
-[<a href="/files/Microglia.pdf">Download PDF</a>]</span><br> 
+[<a href="/files/Microglia.pdf">Download PDF</a>]<br> 
 <br> 
 <img src='/images/1.png' /><br> 
 
