@@ -9,7 +9,7 @@ author_profile: true
 <br> 
 
 <span style="font-size:16px;">2.**Qingqing Li**, et al. **Microglia sing the prelude of neuroinflammation-associated depression**. _Molecular Neurobiology_. 2025 Apr;62(4):5311-5332. 
-(<a href="https://pubmed.ncbi.nlm.nih.gov/39535682/">doi: 10.1007/s12035-024-04575-w</a>) (JCR Q1)</span>
+(<a href="https://pubmed.ncbi.nlm.nih.gov/39535682/">doi: 10.1007/s12035-024-04575-w</a>) (JCR Q1)</span><br> 
 <br> 
 <img src='/images/1.png' /><br> 
 
