@@ -4,10 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<span style="font-size:16px;">1. **Qingqing Li**, _et al_. **Single-Cell Dissection of Microglial Heterogeneity Reveals Subtype-Driven Immune-Metabolic Crosstalk in Major Depressive Disorder**. (_Chinese Medical Journal_; With editor, 2025) (JCR Q1) </span>
+<span style="font-size:16px;">1. **Qingqing Li**, _et al_. **Single-Cell Dissection of Microglial Heterogeneity Reveals Subtype-Driven Immune-Metabolic Crosstalk in Major Depressive Disorder**. (2025; _Chinese Medical Journal_; With editor) (JCR Q1) </span>
 <br> 
 
-<span style="font-size:16px;">2. **Qingqing Li**, _et al_. **Bioinformatic Analysis of Systemic Lupus Erythematosus Comorbid with Major Depressive Disorder**. (_Journal of Immunology Research_; Under review, 2025) (JCR Q1) </span>
+<span style="font-size:16px;">2. **Qingqing Li**, _et al_. **Bioinformatic Analysis of Systemic Lupus Erythematosus Comorbid with Major Depressive Disorder**. (2025; _Journal of Immunology Research_; Under review) (JCR Q2) </span>
 <br> 
 
 <span style="font-size:16px;">3.Yanhong Xing, Meng-Meng Wang, Feifei Zhang, Tianli Xin, Xinyan Wang, Rong Chen, Zhongheng Sui, Yawei Dong, Dongxue Xu, Xingyu Qian, Qixia Lu, **Qingqing Li**, _et al_. **Lysosomes finely control macrophage inflammatory function via regulating the release of lysosomal Fe2+ through TRPML1 channel**. _Nature Communications_. 2025 Jan 24;16(1):985. 
