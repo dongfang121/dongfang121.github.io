@@ -24,5 +24,4 @@ author_profile: true
 <span style="font-size:16px;">5. Jiansong Qi, **Qingqing Li**, _et al_. **MCOLN1/TRPML1 in the lysosome: a promising target for autophagy modulation in diverse diseases**. _Autophagy_. 2024 Aug;20(8):1712-1722. 
 (<a href="https://pubmed.ncbi.nlm.nih.gov/38522082/">doi: 10.1080/15548627.2024.2333715</a>) (JCR Q1)
 [<a href="/files/MCOLN1.pdf">Download PDF</a>]</span>
-<img src='/images/6.png' />
 
