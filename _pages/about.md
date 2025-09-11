@@ -12,7 +12,7 @@ Qingqing Li is a master’s graduate from the Department of Anesthesiology at [X
 
 Her research interests include **major depressive disorder**, **neurodegenerative diseases**, **neuroinflammation/microglia**, and **bioinformatics**. Beyond her academic work, she is passionate about volunteering and enjoys watching animated films by [Hayao Miyazaki](https://www.britannica.com/biography/Miyazaki-Hayao). 
 
-Both she and the giant panda share the same hometown—the beautiful city of [Chengdu](https://wikimili.com/en/Chengdu) in Sichuan Province.
+Both she and the giant panda share the same hometown—the beautiful city of [Chengdu](https://www.gochengdu.cn/en/) in Sichuan Province.
 
 
 
