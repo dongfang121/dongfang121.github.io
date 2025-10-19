@@ -7,7 +7,7 @@ author_profile: true
 <span style="font-size:16px;">1. **Qingqing Li**, _et al_. **Mendelian Randomization Analysis of Multiregional Psychiatric Disorders**. (2025; Submitted) </span>
 <br> 
 
-<span style="font-size:16px;">2. **Qingqing Li**, _et al_. **Single-Cell Dissection of Microglial Heterogeneity Reveals Subtype-Driven Immune-Metabolic Crosstalk in Major Depressive Disorder**. (2025; Submitted) </span>
+<span style="font-size:16px;">2. **Qingqing Li**, _et al_. **Single-Cell Dissection of Microglial Heterogeneity Reveals Subtype-Driven Immune-Metabolic Crosstalk in Major Depressive Disorder**. (2025; Under review) </span>
 <br> 
 
 <span style="font-size:16px;">3. **Qingqing Li**, _et al_. **Microglia sing the prelude of neuroinflammation-associated depression**. _Molecular Neurobiology_. 2025 Apr;62(4):5311-5332. 
