@@ -10,14 +10,14 @@ author_profile: true
 <span style="font-size:16px;">2. **Qingqing Li**, _et al_. **Single-Cell Dissection of Microglial Heterogeneity Reveals Subtype-Driven Immune-Metabolic Crosstalk in Major Depressive Disorder**. (2026; Accepted) 
 </span><br> 
 <br> 
-<img src='/images/Currentpharm.png' style="width:80%;" /><br>
+<img src='/images/Currentpharm.png' style="width:90%;" /><br>
 
 <span style="font-size:16px;">3. **Qingqing Li**, _et al_. **Microglia sing the prelude of neuroinflammation-associated depression**. _Molecular Neurobiology_. 2025 Apr;62(4):5311-5332. 
 (<a href="https://pubmed.ncbi.nlm.nih.gov/39535682/">doi: 10.1007/s12035-024-04575-w</a>) (JCR Q1)
 </span><br> 
 [<a href="/files/Microglia.pdf">Download PDF</a>]<br> 
 <br> 
-<img src='/images/1(1).png' style="width:80%;" /><br>
+<img src='/images/1(1).png' style="width:90%;" /><br>
 
 <span style="font-size:16px;">4. Yanhong Xing, Meng-Meng Wang, Feifei Zhang, Tianli Xin, Xinyan Wang, Rong Chen, Zhongheng Sui, Yawei Dong, Dongxue Xu, Xingyu Qian, Qixia Lu, **Qingqing Li**, _et al_. **Lysosomes finely control macrophage inflammatory function via regulating the release of lysosomal Fe2+ through TRPML1 channel**. _Nature Communications_. 2025 Jan 24;16(1):985. 
 (<a href="https://pubmed.ncbi.nlm.nih.gov/39856099/)">doi: 10.1038/s41467-025-56403-x</a>) (JCR Q1)
