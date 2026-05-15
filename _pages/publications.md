@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<span style="font-size:16px;">1. **Qingqing Li**, _et al_. **In Silico Integration of Genetics and Single‑Cell Multi‑Omics Nominates a novel risk gene in Inhibitory Neuron Dysfunction in Schizophrenia**. (2026; Submitted) </span>
+<span style="font-size:16px;">1. **Qingqing Li**, _et al_. **In Silico Integration of Genetics and Single‑Cell Multi‑Omics Nominates a Novel Risk Gene in Inhibitory Neuron Dysfunction in Schizophrenia**. (2026; Submitted) </span>
 <br> 
 <span style="font-size:16px;">2. **Qingqing Li**, _et al_. **Mendelian Randomization Analysis of Multiregional Psychiatric Disorders**. (2026; Submitted) </span>
 <br> 
